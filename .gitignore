@@ -1,0 +1,9 @@
+# Compiled binaries
+website-checker
+
+# IDE files
+.idea/
+.vscode/
+
+# Environment files
+.env
